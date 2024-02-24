@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a14b3ad.css",
+    "main.js": "/static/js/main.e3126225.js",
+    "static/media/Car1.jpg": "/static/media/Car1.5e738c5941bdd83dd750.jpg",
+    "static/media/lo2.png": "/static/media/lo2.7a1dc303cb9094f70895.png",
+    "index.html": "/index.html",
+    "main.4a14b3ad.css.map": "/static/css/main.4a14b3ad.css.map",
+    "main.e3126225.js.map": "/static/js/main.e3126225.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a14b3ad.css",
+    "static/js/main.e3126225.js"
+  ]
+}
